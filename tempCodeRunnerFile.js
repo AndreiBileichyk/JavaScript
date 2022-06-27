@@ -1,0 +1,1 @@
+ item_6_type, "type is", typeof(item_6_type))
